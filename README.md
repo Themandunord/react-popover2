@@ -1,5 +1,7 @@
 # react-popover2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Themandunord/react-popover2.svg)](https://greenkeeper.io/)
+
 littlebits/react-popover successor.
 
 ## Installation
