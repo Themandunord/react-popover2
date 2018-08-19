@@ -7,8 +7,8 @@
     "postpublish": "npm run clean"
   },
   "dependencies": {
-    "css-vendor": "^0.3.1",
-    "lodash.throttle": "^3.0.3"
+    "css-vendor": "^1.1.0",
+    "lodash.throttle": "^4.1.1"
   },
   "files": [
     "dist"
@@ -36,10 +36,10 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-1": "^6.3.13",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "webpack": "^1.12.1",
-    "webpack-dev-server": "^1.10.1"
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "webpack": "^4.16.5",
+    "webpack-dev-server": "^3.1.5"
   },
   "peerDependencies": {
     "react": "^0.14.0",
